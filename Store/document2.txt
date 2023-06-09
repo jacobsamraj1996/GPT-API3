@@ -1,0 +1,11 @@
+In this essay, the author
+Explains that machine learning is a branch of artificial intelligence that aims at solving real life engineering problems. it uses mathematical models, heuristic learning, knowledge acquisitions and decision trees for decision making.
+Explains the application of machine learning models on human disease diagnosis aids medical experts based on the symptoms at an early stage.
+Explains that supervised learning is the most common form of machine learning scheme used in solving engineering problems.
+Explains that unsupervised learning algorithms are mostly focused on finding hidden patterns in data, such as user profile information in a social network. they can also be classified as semi-supervised.
+Explains that ml algorithms might have a reinforcement learning approach. reinforcement learning occurs when algorithms learn based on external feedback.
+Explains that ml algorithms use mathematical or statistical analysis to learn, draw conclusions or infer data. they have been categorized based on the purpose for which they are designed.
+Explains that every machine learning algorithm has a specific technique of learning and is based on the values of their parameters. one has to fine tune the algorithm parameters that best suits the problem.
+Explains that the job search engine is simple and intuitive with two inputs: keywords and location. the search results page displays a list of matching jobs, ranked by relevance.
+Explains that the decision to go beyond search and add job searching—a new mode of interaction—is based on several key reasons.
+Explains that searching jobs is significantly different from searching products or movies. rapid inventory growth, new users, and content freshness are just a few of the things they took into consideration when building their engine.

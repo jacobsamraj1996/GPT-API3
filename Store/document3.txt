@@ -1,0 +1,9 @@
+Machine learning is a branch of artificial intelligence that 
+aims at solving real life engineering problems. 
+It provides the opportunity to learn without being explicitly 
+programmed and it is based on the concept of learning from data. 
+It is so much ubiquitously used dozen a times a day that we may not even know it. 
+The advantage of machine learning (ML) methods  is that it uses mathematical models, 
+heuristic learning, knowledge acquisitions and decision trees for decision making. 
+Thus, it provides controllability, observability and stability. 
+It updates easily by adding a new patient‘s record.

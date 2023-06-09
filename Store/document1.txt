@@ -1,0 +1,16 @@
+It can be thought as the most appropriate way of mapping a 
+set of input variables with a set of output variables. 
+The system learns to infer a function from a collection of
+ labeled training data. The training dataset contains a set of input 
+ features and several instance values for respective features. 
+ The predictive performance accuracy of a machine learning algorithm 
+ depends on the supervised learning scheme [8]. 
+ The aim of the inferred function may be to solve a regression or classification problem. 
+ There are several metrics used in the measurement of the learning task like accuracy, 
+ sensitivity, specificity, kappa value, area under the curve etc. 
+ In this work, the aim is to classify the patients as healthy or ill based on the 
+ past medical records. Before solving any engineering problem, 
+ it is vital that it is necessary to choose a suitable algorithm for
+  the training purpose based on the type of the data. 
+  The selection of a method depends primarily on the type of the data as the field
+   of machine learning is data driven. 
