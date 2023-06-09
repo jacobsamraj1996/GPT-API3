@@ -7,7 +7,7 @@ import os
 
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "Your Key"
 loader = DirectoryLoader('Store',glob='**/*.txt')
 docs = loader.load()
 
